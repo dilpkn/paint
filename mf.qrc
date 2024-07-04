@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mg/del.png</file>
+        <file>mg/fill.png</file>
+    </qresource>
+</RCC>
